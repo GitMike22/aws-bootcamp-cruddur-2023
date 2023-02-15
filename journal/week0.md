@@ -13,3 +13,5 @@
 <br>
 15Feb 
   Worked on and completed Logical Architectual Diagram on Lucid Chart. Took me awhile to get the hang of it, but once i figured it out it got more fun! tweaked it a bit to make it mine. I still had issues with the momento SVG, i somehow lost the eyeball so i just used a circle shape with the same color(No one can notice). I followed along with the chart diagram video for most of it. Looking forward for more. I plan on watching Chirag and Ashishs videos tomorrow and complete the quiz as well! Cheers!
+  <br>
+  Link to Chart: https://lucid.app/lucidchart/2adfee85-abb8-403c-a003-b82eb37aba30/edit?viewport_loc=-103%2C6%2C2167%2C1198%2C0_0&invitationId=inv_119f8b41-fdb7-4cce-9c43-68cf4775bee2
