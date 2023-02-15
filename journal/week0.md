@@ -1,8 +1,10 @@
 # Week 0 — Billing and Architecture
 11Feb
   Watched and rewatched live session. Took Notes.
+<br>
 12Feb
   Rewatched parts of live session and followed along.
+<br>
 13Feb
   Got through most of the extra videos for billing budget set up, took me awhile because i had to stop and go do things in between and would come back to realize all my progress was lost. So I had to redo my environment a couple times due to that, atleast until i got to the portion where we added commands that would save out settings.
 14Feb
