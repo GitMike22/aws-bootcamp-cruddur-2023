@@ -1,10 +1,12 @@
 # Week 0 - Billing & Architecture
-
+Overall learned a lot through trial and error with Github/Gitpod, AWS CLI(for creating services using JSON), was fun and looking forward to the next few weeks! 
 ## Required Homework/ Tasks
 
 Lucid Chart Picture
-
+![Lucid Chart Pic](assets/Week0-ConceptualDiagram-Gitmike22.PNG)
 **Link to MY Chart:** https://lucid.app/lucidchart/2adfee85-abb8-403c-a003-b82eb37aba30/edit?viewport_loc=-103%2C6%2C2167%2C1198%2C0_0&invitationId=inv_119f8b41-fdb7-4cce-9c43-68cf4775bee2
+
+Create a Billing alarm and Budget *Add pics*
 
 ##                **DAILY JOURNAL**
 ### **11Feb**
@@ -21,6 +23,4 @@ Completed watching all the main videos, and completed all the set up for my acco
 
 ### **15Feb** 
 Worked on and completed Logical Architectual Diagram on Lucid Chart. Took me awhile to get the hang of it, but once i figured it out it got more fun! tweaked it a bit to make it mine. I still had issues with the momento SVG, i somehow lost the eyeball so i just used a circle shape with the same color(No one can notice). I followed along with the chart diagram video for most of it. Looking forward for more. I plan on watching Chirag and Ashishs videos tomorrow and complete the quiz as well! Cheers!
-
-**Link to Chart:** https://lucid.app/lucidchart/2adfee85-abb8-403c-a003-b82eb37aba30/edit?viewport_loc=-103%2C6%2C2167%2C1198%2C0_0&invitationId=inv_119f8b41-fdb7-4cce-9c43-68cf4775bee2
 
