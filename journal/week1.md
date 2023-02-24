@@ -5,3 +5,5 @@ Started watching live stream, had to watch recording due to other things schedul
 Finished the live session and was successful with the container and displaying the site.
 ## **FEB 21**
 Finished building the notifications portion of the app/website. Ran into many issues at first, but after going back and reviewing definitely human error all the times. :D I mistakenly overwrote the import userfeed with notifications feed and didn't notice until the end when i was trying to run it from port 3000 and was showing no feed, just a blank purple screen. I reviewed all the code that I changed and realized where I messed up, took me a bit to find but was definitely relieving and proud moment when I was able to fix my own goof!
+## **FEB 24**
+I completed the 2 quizzes and wrote my Overall Summary of what I did. I am also going to watch some of Adrian Cantrills Docker videos today to get a better understanding of Docker and all of its components.
