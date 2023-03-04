@@ -22,7 +22,6 @@ vscode:
   extensions:
     - 42crunch.vscode-openapi
     - cweijan.vscode-postgresql-client2
-    - WakaTime.vscode-wakatimeports:
   - name: frontend
     port: 3000
     onOpen: open-browser
