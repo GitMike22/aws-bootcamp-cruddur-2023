@@ -9,7 +9,7 @@ class UserActivities:
       }
 
       now = datetime.now(timezone.utc).astimezone()
-
+      
       if user_handle == None or len(user_handle) < 1:
         model['errors'] = ['blank_user_handle']
       else:
@@ -24,7 +24,7 @@ class UserActivities:
         model['data'] = results
 
       subsegment = xray_recorder.begin_subsegment('mock-data')
-      # X-RAY ---
+      # ---xray ---
       dict = {
         "now": now.isoformat(),
         "results-size": len(model['data'])
