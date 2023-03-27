@@ -1,1 +1,2 @@
 # Week 3 — Decentralized Authentication
+This week I did not run into many issues, it was pretty straightforward. There was a lot of code, but I waited til the end of the videos to then go back and make the appropriate changes. There were sometimes when I did follow along and make the same mistakes as Andrew did, but I think it helped with learning. Main issue is when i am not logged in I cannot see any messages on my feed, but once i log in i can see all the messages. I think it is a neat 'feature'. :)
