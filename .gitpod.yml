@@ -22,7 +22,7 @@ tasks:
 vscode:
   extensions:
     - 42crunch.vscode-openapi
-   # - cweijan.vscode-postgresql-client2
+    - cweijan.vscode-postgresql-client2
 ports:
   - name: frontend
     port: 3000
