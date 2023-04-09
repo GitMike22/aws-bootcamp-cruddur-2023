@@ -73,3 +73,7 @@ networks:
   internal-network:
     driver: bridge
     name: cruddur
+
+volumes:
+  db:
+    driver: local
