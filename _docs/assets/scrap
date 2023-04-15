@@ -3,5 +3,5 @@ bootcamppassword = password for postgres
 export CONNECTION_URL="postgresql://postgres:password@localhost:5432/cruddur"
 gp env CONNECTION_URL="postgresql://postgres:password@localhost:5432/cruddur"
 
-export PROD_CONNECTION_URL="postgresql://cruddurroot:bootcamppassword@cruddur-db-instance.cyvc7ydzmltx.us-east-1.rds.amazonaws.com:5432/cruddur"
-gp env PROD_CONNECTION_URL="postgresql://cruddurroot:bootcamppassword@cruddur-db-instance.cyvc7ydzmltx.us-east-1.rds.amazonaws.com:5432/cruddur"
+export PROD_CONNECTION_URL="postgresql://cruddurroot:bootcamppassword1@cruddur-db-instance2.cyvc7ydzmltx.us-east-1.rds.amazonaws.com:5432/cruddur"
+gp env PROD_CONNECTION_URL="postgresql://cruddurroot:bootcamppassword1@cruddur-db-instance2.cyvc7ydzmltx.us-east-1.rds.amazonaws.com:5432/cruddur"
