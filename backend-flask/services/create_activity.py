@@ -1,12 +1,23 @@
 import uuid
 from datetime import datetime, timedelta, timezone
 class CreateActivity:
+  def validations()
   def run(message, user_handle, ttl):
     model = {
       'errors': None,
       'data': None
     }
 
+    user_uuid =''
+    sql = f"""
+    INSERT INTO (
+      user_uuid
+    )
+    VALUES (
+      "{user_uuid}",
+      "{message}"
+    )
+    """
     now = datetime.now(timezone.utc).astimezone()
 
     if (ttl == '30-days'):
